@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "checked": "2026-11-26T01:22:14Z",
+  "checked": "2026-11-26T18:02:38Z",
   "laws": [
     {
       "id": 109855,
@@ -51,6 +51,17 @@
       "size": 281765
     },
     {
+      "id": 307573,
+      "shortName": "OUG 7/2026",
+      "title": "Amenzi rutiere neplătite în 90 de zile – pierderea dreptului de a conduce (art. XVII)",
+      "officialTitle": "ORDONANȚĂ DE URGENȚĂ nr. 7 din 24 februarie 2026",
+      "versionId": 307573,
+      "articles": 3,
+      "file": "laws/307573.json",
+      "sha256": "cc7c0b1eaabed6dd391fd52c16fba2cea8e515fec0ca6c170c24c358b31d3254",
+      "size": 6706
+    },
+    {
       "id": 293218,
       "shortName": "Codul silvic",
       "title": "Legea 331/2024 – Codul silvic (în vigoare din 12.01.2025)",
@@ -59,8 +70,8 @@
       "consolidationDate": "08.08.2026",
       "articles": 175,
       "file": "laws/293218.json",
-      "sha256": "b8f32f32630655bf3844c4b002e50ca4771b3ad1fb8ee24e89d0b1ba174dbc77",
-      "size": 346385
+      "sha256": "cadc469e81ec29a5d6c1e4ff26af13dca289f5b5a36fff5483fd9dd424dcc0b0",
+      "size": 347391
     },
     {
       "id": 29779,
@@ -131,8 +142,8 @@
       "consolidationDate": "23.07.2026",
       "articles": 50,
       "file": "laws/88568.json",
-      "sha256": "f36b67dc9a93b7e7ee59db70a90a2ddae2226548049543900d88c8721b6f87f8",
-      "size": 93130
+      "sha256": "3fae9e523a36ac40dbebaf39c641fae3ac7103b503dd3f9c5f4e2b57d980960a",
+      "size": 93515
     },
     {
       "id": 136580,
@@ -144,6 +155,18 @@
       "file": "laws/136580.json",
       "sha256": "44eec2f45a2807390c3d0931bdfa79a884c427ad8478ae8f63d45bbe1f5fc170",
       "size": 12559
+    },
+    {
+      "id": 203115,
+      "shortName": "Legea 203/2018",
+      "title": "Măsuri de eficientizare a achitării amenzilor contravenționale",
+      "officialTitle": "LEGE nr. 203 din 20 iulie 2018",
+      "versionId": 248127,
+      "consolidationDate": "05.12.2021",
+      "articles": 25,
+      "file": "laws/203115.json",
+      "sha256": "43e5dcfa6aeac1578f3e932369d91ee4fb67d93942c88c0a90c697141ffaa816",
+      "size": 27738
     },
     {
       "id": 44014,
@@ -170,6 +193,29 @@
       "size": 49736
     },
     {
+      "id": 309755,
+      "shortName": "Legea 53/2026",
+      "title": "Prevenirea și combaterea femicidului",
+      "officialTitle": "LEGE nr. 53 din 23 aprilie 2026",
+      "versionId": 309755,
+      "articles": 6,
+      "file": "laws/309755.json",
+      "sha256": "382f077effaefbe158d9d5135fe3fafdc6d578b6c292feef14954a58f4632be3",
+      "size": 17580
+    },
+    {
+      "id": 52468,
+      "shortName": "Legea 211/2004",
+      "title": "Măsuri pentru asigurarea protecției victimelor infracțiunilor",
+      "officialTitle": "LEGE nr. 211 din 27 mai 2004",
+      "versionId": 289627,
+      "consolidationDate": "08.11.2024",
+      "articles": 76,
+      "file": "laws/52468.json",
+      "sha256": "14360d92a8441db5569cf973083a93bebad799350c8fb99cb8972977e2c4da41",
+      "size": 104583
+    },
+    {
       "id": 120856,
       "shortName": "Legea 171/2010",
       "title": "Stabilirea și sancționarea contravențiilor silvice",
@@ -190,8 +236,8 @@
       "consolidationDate": "07.12.2025",
       "articles": 69,
       "file": "laws/90207.json",
-      "sha256": "a0f7296abe7f314530d76a54351fe7069ada40485823331c2556b4855fa91252",
-      "size": 103893
+      "sha256": "a16a6d308de8b89626b67bf826d7123407e7b29e0455135f52661f616d48e179",
+      "size": 104278
     },
     {
       "id": 77053,
@@ -278,6 +324,30 @@
       "size": 273666
     },
     {
+      "id": 32589,
+      "shortName": "Legea 678/2001",
+      "title": "Prevenirea și combaterea traficului de persoane",
+      "officialTitle": "LEGE nr. 678 din 21 noiembrie 2001",
+      "versionId": 307786,
+      "consolidationDate": "25.09.2026",
+      "articles": 47,
+      "file": "laws/32589.json",
+      "sha256": "0436d64d86292f20b6070e7877c66a1c6b597d9a413f6e990a07e4c50ebcb2c1",
+      "size": 46582
+    },
+    {
+      "id": 215496,
+      "shortName": "Legea 118/2019",
+      "title": "Registrul național automatizat al persoanelor care au comis infracțiuni sexuale, de exploatare a unor persoane sau asupra minorilor",
+      "officialTitle": "LEGE nr. 118 din 20 iunie 2019",
+      "versionId": 307891,
+      "consolidationDate": "03.04.2026",
+      "articles": 28,
+      "file": "laws/215496.json",
+      "sha256": "474fd18fe82f7bb2664b9d5fca4d38e09457180091d0e126742d4466c7d81b84",
+      "size": 29854
+    },
+    {
       "id": 53150,
       "shortName": "Legea 295/2004",
       "title": "Regimul armelor, componentelor esențiale și al munițiilor, republicată",
@@ -334,8 +404,8 @@
       "consolidationDate": "07.04.2022",
       "articles": 107,
       "file": "laws/67634.json",
-      "sha256": "86884eea8ff86da27a3b277ec30dbd4fb0e6d6b733c28f2b792ae9756d73c604",
-      "size": 209821
+      "sha256": "7aa4c23f802856eef2b29ad87aa9c219f262746cca7dea86814ed421df2e05f2",
+      "size": 209718
     },
     {
       "id": 170037,
@@ -346,8 +416,8 @@
       "consolidationDate": "08.10.2024",
       "articles": 139,
       "file": "laws/170037.json",
-      "sha256": "ab206c890fcb67773176aa54216e2f2aafd9957247330cad253860fef23c9cdb",
-      "size": 425342
+      "sha256": "959fff724d9290d58668db40b8279e24aa25fcf268889145889f75506a0bd06c",
+      "size": 425710
     },
     {
       "id": 168136,
@@ -358,8 +428,8 @@
       "consolidationDate": "27.07.2023",
       "articles": 141,
       "file": "laws/168136.json",
-      "sha256": "be5f7ef3640fd6297b1dcd17d51d015e180294586e7711d4d7a161ce8216f7e9",
-      "size": 264401
+      "sha256": "8773456c340a20956e2ad75983cc5610f49dac3b092ff3d1ba130c4e877bfa6d",
+      "size": 264786
     },
     {
       "id": 6350,
@@ -372,6 +442,28 @@
       "file": "laws/6350.json",
       "sha256": "bffdf5f4b5c46c7ff70b03690b2bca1fcd71326ae28ddfe6a532acba3363c586",
       "size": 41744
+    },
+    {
+      "id": 290723,
+      "shortName": "Legea 205/2004",
+      "title": "Protecția animalelor, republicată",
+      "officialTitle": "LEGE nr. 205 din 26 mai 2004 (*republicată*)",
+      "versionId": 290723,
+      "articles": 39,
+      "file": "laws/290723.json",
+      "sha256": "57ef1265f0ed1151d1f160be16c932c380810e212dc4e21ac6e5d42651da2e5a",
+      "size": 34438
+    },
+    {
+      "id": 222907,
+      "shortName": "OUG 55/2002",
+      "title": "Regimul de deținere al câinilor periculoși sau agresivi, republicată",
+      "officialTitle": "ORDONANȚĂ DE URGENȚĂ nr. 55 din 30 aprilie 2002 (*republicată*)",
+      "versionId": 222907,
+      "articles": 24,
+      "file": "laws/222907.json",
+      "sha256": "a6fff0a50465bafa222b8134410516cd0924229d4cbfffd63972a4ad82433410",
+      "size": 21273
     },
     {
       "id": 35841,
