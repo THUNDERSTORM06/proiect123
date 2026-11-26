@@ -1,0 +1,809 @@
+{
+  "minWage": {
+    "lei": 4325.0,
+    "source": "HG 146/2026, de la 1 iulie 2026"
+  },
+  "sections": [
+    {
+      "id": "ordine-contraventii",
+      "title": "Ordine publică – contravenții",
+      "description": "OG 2/2001, Legea 61/1991, 60/1991, 333/2003, 349/2002, 54/2012, 112, competiții sportive",
+      "color": "blue",
+      "kind": "contraventii",
+      "entries": [
+        {
+          "law": 29779,
+          "title": "Cadrul general: constatare, proces-verbal, sancțiuni, plângere"
+        },
+        {
+          "law": 203115,
+          "title": "Plata amenzilor (15 zile, ½ din minim, plata online)"
+        },
+        {
+          "law": 1534
+        },
+        {
+          "law": 36778,
+          "title": "Fumatul în spații publice"
+        },
+        {
+          "law": 136580,
+          "title": "Activități de picnic"
+        },
+        {
+          "law": 1532,
+          "title": "Adunări publice – contravenții",
+          "chapter": "Capitolul V Sancțiuni"
+        },
+        {
+          "law": 45134,
+          "title": "Pază – contravenții",
+          "chapter": "Capitolul IX Răspunderi și sancțiuni",
+          "only": "contraventii"
+        },
+        {
+          "law": 90817,
+          "title": "Apeluri abuzive la 112 – sancțiuni",
+          "chapter": "Capitolul VII Sancțiuni"
+        },
+        {
+          "law": 88568,
+          "title": "Violența la competiții sportive – contravenții",
+          "chapter": "Capitolul V Contravenții și infracțiuni",
+          "only": "contraventii"
+        }
+      ]
+    },
+    {
+      "id": "ordine-infractiuni",
+      "title": "Ordine publică – infracțiuni",
+      "description": "Conviețuire socială, ultraj, pază, competiții sportive; flagrant și reținere",
+      "color": "blue",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra ordinii și liniștii publice",
+          "articles": "367-375"
+        },
+        {
+          "law": 109855,
+          "title": "Ultrajul",
+          "articles": "257"
+        },
+        {
+          "law": 45134,
+          "title": "Pază – infracțiuni",
+          "chapter": "Capitolul IX Răspunderi și sancțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 88568,
+          "title": "Violența la competiții sportive – infracțiuni",
+          "chapter": "Capitolul V Contravenții și infracțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 120611,
+          "title": "Constatarea infracțiunii flagrante",
+          "articles": "293"
+        },
+        {
+          "law": 120611,
+          "title": "Reținerea",
+          "articles": "209"
+        }
+      ]
+    },
+    {
+      "id": "rutier-contraventii",
+      "title": "Rutier – contravenții",
+      "description": "Codul rutier actualizat și Regulamentul, contravenții rutiere, amenzi neplătite",
+      "color": "orange",
+      "kind": "contraventii",
+      "entries": [
+        {
+          "law": 41006,
+          "title": "Contravenții rutiere",
+          "chapter": "Capitolul VII Răspunderea contravențională"
+        },
+        {
+          "law": 41006,
+          "title": "Codul rutier – toate regulile"
+        },
+        {
+          "law": 76240
+        },
+        {
+          "law": 307573,
+          "title": "Amenzi neplătite în 90 de zile – pierderea dreptului de a conduce"
+        },
+        {
+          "law": 29779,
+          "title": "Cadrul general al contravențiilor"
+        }
+      ]
+    },
+    {
+      "id": "rutier-infractiuni",
+      "title": "Rutier – infracțiuni",
+      "description": "Infracțiunile rutiere din Codul penal; flagrant și reținere",
+      "color": "orange",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra siguranței circulației pe drumurile publice",
+          "articles": "334-341"
+        },
+        {
+          "law": 120611,
+          "title": "Constatarea infracțiunii flagrante",
+          "articles": "293"
+        },
+        {
+          "law": 120611,
+          "title": "Reținerea",
+          "articles": "209"
+        }
+      ]
+    },
+    {
+      "id": "violenta-contraventii",
+      "title": "Violență domestică – contravenții",
+      "description": "Contravențiile din Legea 217/2003 și Legea 26/2024",
+      "color": "magenta",
+      "kind": "contraventii",
+      "entries": [
+        {
+          "law": 44014,
+          "title": "Contravenții – violență domestică",
+          "chapter": "Capitolul VIII Contravenții"
+        },
+        {
+          "law": 279559,
+          "title": "Contravenții – victime din afara familiei",
+          "only": "contraventii"
+        }
+      ]
+    },
+    {
+      "id": "violenta-infractiuni",
+      "title": "Violență domestică – infracțiuni",
+      "description": "Lovire, violență în familie, încălcarea ordinului de protecție, femicid; ordinul de protecție",
+      "color": "magenta",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 109855,
+          "title": "Lovirea sau alte violențe; vătămarea corporală",
+          "articles": "193-194"
+        },
+        {
+          "law": 109855,
+          "title": "Violența în familie",
+          "articles": "199"
+        },
+        {
+          "law": 109855,
+          "title": "Membru de familie – definiție",
+          "articles": "177"
+        },
+        {
+          "law": 44014,
+          "title": "Încălcarea ordinului de protecție – infracțiune",
+          "articles": "47"
+        },
+        {
+          "law": 279559,
+          "title": "Încălcarea ordinului de protecție (din afara familiei) – infracțiune",
+          "articles": "18"
+        },
+        {
+          "law": 309755,
+          "title": "Femicidul – evaluarea și gestionarea riscului"
+        },
+        {
+          "law": 52468,
+          "title": "Protecția victimelor infracțiunilor"
+        },
+        {
+          "law": 44014,
+          "title": "Ordinul de protecție provizoriu – violență domestică",
+          "group": "Ordinul de protecție",
+          "chapter": "Capitolul IV Ordinul de protecție provizoriu"
+        },
+        {
+          "law": 44014,
+          "title": "Ordinul de protecție emis de instanță",
+          "group": "Ordinul de protecție",
+          "chapter": "Capitolul V Ordinul de protecție"
+        },
+        {
+          "law": 279559,
+          "title": "Ordinul de protecție provizoriu – victime din afara familiei",
+          "group": "Ordinul de protecție",
+          "chapter": "Capitolul II Ordinul de protecție provizoriu"
+        }
+      ]
+    },
+    {
+      "id": "coduri",
+      "title": "Codul penal și Codul de procedură penală",
+      "description": "Ambele coduri integral, pe părți și titluri",
+      "color": "indigo",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 109855,
+          "title": "Codul penal – tot textul",
+          "group": "Codul penal"
+        },
+        {
+          "law": 109855,
+          "title": "Legea penală și limitele ei de aplicare",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul I Legea penală și limitele ei de aplicare",
+          "short": "Titlul I"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiunea",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul II Infracțiunea",
+          "short": "Titlul II"
+        },
+        {
+          "law": 109855,
+          "title": "Pedepsele",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul III Pedepsele",
+          "short": "Titlul III"
+        },
+        {
+          "law": 109855,
+          "title": "Măsurile de siguranță",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul IV Măsurile de siguranță",
+          "short": "Titlul IV"
+        },
+        {
+          "law": 109855,
+          "title": "Minoritatea",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul V Minoritatea",
+          "short": "Titlul V"
+        },
+        {
+          "law": 109855,
+          "title": "Răspunderea penală a persoanei juridice",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul VI Răspunderea penală a persoanei juridice",
+          "short": "Titlul VI"
+        },
+        {
+          "law": 109855,
+          "title": "Cauzele care înlătură răspunderea penală",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul VII Cauzele care înlătură răspunderea penală",
+          "short": "Titlul VII"
+        },
+        {
+          "law": 109855,
+          "title": "Cauzele care înlătură sau modifică executarea pedepsei",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul VIII Cauzele care înlătură sau modifică executarea pedepsei",
+          "short": "Titlul VIII"
+        },
+        {
+          "law": 109855,
+          "title": "Cauzele care înlătură consecințele condamnării",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul IX Cauzele care înlătură consecințele condamnării",
+          "short": "Titlul IX"
+        },
+        {
+          "law": 109855,
+          "title": "Înțelesul unor termeni sau expresii în legea penală",
+          "group": "Codul penal – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul X Înțelesul unor termeni sau expresii în legea penală",
+          "short": "Titlul X"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra persoanei",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul I Infracțiuni contra persoanei",
+          "short": "Titlul I"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra patrimoniului",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul II Infracțiuni contra patrimoniului",
+          "short": "Titlul II"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni privind autoritatea și frontiera de stat",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul III Infracțiuni privind autoritatea și frontiera de stat",
+          "short": "Titlul III"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra înfăptuirii justiției",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul IV Infracțiuni contra înfăptuirii justiției",
+          "short": "Titlul IV"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni de corupție și de serviciu",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul V Infracțiuni de corupție și de serviciu",
+          "short": "Titlul V"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni de fals",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul VI Infracțiuni de fals",
+          "short": "Titlul VI"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra siguranței publice",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul VII Infracțiuni contra siguranței publice",
+          "short": "Titlul VII"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni care aduc atingere unor relații privind conviețuirea socială",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul VIII Infracțiuni care aduc atingere unor relații privind conviețuirea socială",
+          "short": "Titlul VIII"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni electorale",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul IX Infracțiuni electorale",
+          "short": "Titlul IX"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra securității naționale",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul X Infracțiuni contra securității naționale",
+          "short": "Titlul X"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni contra capacității de luptă a forțelor armate",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul XI Infracțiuni contra capacității de luptă a forțelor armate",
+          "short": "Titlul XI"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni de genocid, contra umanității și de război",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul XII Infracțiuni de genocid, contra umanității și de război",
+          "short": "Titlul XII"
+        },
+        {
+          "law": 109855,
+          "title": "Dispoziții finale",
+          "group": "Codul penal – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul XIII Dispoziții finale",
+          "short": "Titlul XIII"
+        },
+        {
+          "law": 120611,
+          "title": "Codul de procedură penală – tot textul",
+          "group": "Codul de procedură penală"
+        },
+        {
+          "law": 120611,
+          "title": "Principiile și limitele aplicării legii procesuale penale",
+          "group": "Codul de procedură penală – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul I Principiile și limitele aplicării legii procesuale penale",
+          "short": "Titlul I"
+        },
+        {
+          "law": 120611,
+          "title": "Acțiunea penală și acțiunea civilă în procesul penal",
+          "group": "Codul de procedură penală – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul II Acțiunea penală și acțiunea civilă în procesul penal",
+          "short": "Titlul II"
+        },
+        {
+          "law": 120611,
+          "title": "Participanții în procesul penal",
+          "group": "Codul de procedură penală – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul III Participanții în procesul penal",
+          "short": "Titlul III"
+        },
+        {
+          "law": 120611,
+          "title": "Probele, mijloacele de probă și procedeele probatorii",
+          "group": "Codul de procedură penală – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul IV Probele, mijloacele de probă și procedeele probatorii",
+          "short": "Titlul IV"
+        },
+        {
+          "law": 120611,
+          "title": "Măsurile preventive și alte măsuri procesuale",
+          "group": "Codul de procedură penală – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul V Măsurile preventive și alte măsuri procesuale",
+          "short": "Titlul V"
+        },
+        {
+          "law": 120611,
+          "title": "Acte procesuale și procedurale comune",
+          "group": "Codul de procedură penală – Partea generală",
+          "chapter": "Partea GENERALĂ › Titlul VI Acte procesuale și procedurale comune",
+          "short": "Titlul VI"
+        },
+        {
+          "law": 120611,
+          "title": "Urmărirea penală",
+          "group": "Codul de procedură penală – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul I Urmărirea penală",
+          "short": "Titlul I"
+        },
+        {
+          "law": 120611,
+          "title": "Camera preliminară",
+          "group": "Codul de procedură penală – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul II Camera preliminară",
+          "short": "Titlul II"
+        },
+        {
+          "law": 120611,
+          "title": "Judecata",
+          "group": "Codul de procedură penală – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul III Judecata",
+          "short": "Titlul III"
+        },
+        {
+          "law": 120611,
+          "title": "Proceduri speciale",
+          "group": "Codul de procedură penală – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul IV Proceduri speciale",
+          "short": "Titlul IV"
+        },
+        {
+          "law": 120611,
+          "title": "Executarea hotărârilor penale",
+          "group": "Codul de procedură penală – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul V Executarea hotărârilor penale",
+          "short": "Titlul V"
+        },
+        {
+          "law": 120611,
+          "title": "Dispoziții finale",
+          "group": "Codul de procedură penală – Partea specială",
+          "chapter": "Partea SPECIALĂ › Titlul VI Dispoziții finale",
+          "short": "Titlul VI"
+        }
+      ]
+    },
+    {
+      "id": "vatamari",
+      "title": "Infracțiuni cu vătămări",
+      "description": "Contra vieții, integrității corporale și sexuale, tâlhărie, ultraj",
+      "color": "red",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 109855,
+          "title": "Omorul și celelalte infracțiuni contra vieții",
+          "chapter": "Capitolul I Infracțiuni contra vieții"
+        },
+        {
+          "law": 109855,
+          "title": "Lovirea, vătămarea corporală",
+          "chapter": "Capitolul II Infracțiuni contra integrității corporale sau sănătății"
+        },
+        {
+          "law": 109855,
+          "title": "Violența în familie",
+          "chapter": "Capitolul III Infracțiuni săvârșite asupra unui membru de familie"
+        },
+        {
+          "law": 109855,
+          "title": "Agresiuni asupra fătului",
+          "chapter": "Capitolul IV Agresiuni asupra fătului"
+        },
+        {
+          "law": 109855,
+          "title": "Viol, agresiune sexuală",
+          "chapter": "Capitolul VIII Infracțiuni contra libertății și integrității sexuale"
+        },
+        {
+          "law": 109855,
+          "title": "Tâlhăria",
+          "chapter": "Capitolul II Tâlhăria și pirateria"
+        },
+        {
+          "law": 109855,
+          "title": "Ultrajul",
+          "articles": "257"
+        },
+        {
+          "law": 120611,
+          "title": "Constatarea infracțiunii flagrante",
+          "articles": "293"
+        },
+        {
+          "law": 120611,
+          "title": "Reținerea",
+          "articles": "209"
+        }
+      ]
+    },
+    {
+      "id": "infractiuni",
+      "title": "Infracțiuni fără vătămări",
+      "description": "Patrimoniu, fals, corupție, droguri, trafic de persoane, legi penale speciale",
+      "color": "purple",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 120611,
+          "title": "Constatarea infracțiunii flagrante",
+          "articles": "293"
+        },
+        {
+          "law": 120611,
+          "title": "Reținerea",
+          "articles": "209"
+        },
+        {
+          "law": 109855,
+          "title": "Furtul",
+          "chapter": "Capitolul I Furtul"
+        },
+        {
+          "law": 109855,
+          "title": "Înșelăciunea, abuzul de încredere",
+          "chapter": "Capitolul III Infracțiuni contra patrimoniului prin nesocotirea încrederii"
+        },
+        {
+          "law": 109855,
+          "title": "Distrugerea, tulburarea de posesie",
+          "chapter": "Capitolul V Distrugerea și tulburarea de posesie"
+        },
+        {
+          "law": 109855,
+          "title": "Violarea de domiciliu, viața privată",
+          "chapter": "Capitolul IX Infracțiuni ce aduc atingere domiciliului și vieții private"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni de fals",
+          "chapter": "Titlul VI Infracțiuni de fals"
+        },
+        {
+          "law": 23629
+        },
+        {
+          "law": 132824
+        },
+        {
+          "law": 22361
+        },
+        {
+          "law": 63590
+        },
+        {
+          "law": 216157
+        },
+        {
+          "law": 32589
+        },
+        {
+          "law": 215496,
+          "title": "Registrul persoanelor care au comis infracțiuni sexuale sau asupra minorilor"
+        },
+        {
+          "law": 150699
+        },
+        {
+          "law": 52468,
+          "title": "Protecția victimelor infracțiunilor (informarea victimei)"
+        }
+      ]
+    },
+    {
+      "id": "silvic-contraventii",
+      "title": "Silvic, piscicol și cinegetic – contravenții",
+      "description": "Codul silvic, Legea 171/2010, pescuit, vânătoare",
+      "color": "green",
+      "kind": "contraventii",
+      "entries": [
+        {
+          "law": 120856,
+          "title": "Contravenții silvice"
+        },
+        {
+          "law": 293218,
+          "title": "Codul silvic – contravenții",
+          "chapter": "Titlul VII Răspunderi și sancțiuni",
+          "only": "contraventii"
+        },
+        {
+          "law": 90207,
+          "title": "Pescuit – contravenții",
+          "chapter": "Capitolul IX Răspunderi și sancțiuni",
+          "only": "contraventii"
+        },
+        {
+          "law": 77053,
+          "title": "Vânătoare – contravenții",
+          "chapter": "Capitolul V Răspunderi și sancțiuni",
+          "only": "contraventii"
+        }
+      ]
+    },
+    {
+      "id": "silvic-infractiuni",
+      "title": "Silvic, piscicol și cinegetic – infracțiuni",
+      "description": "Codul silvic, pescuit, vânătoare",
+      "color": "green",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 293218,
+          "title": "Codul silvic – infracțiuni",
+          "chapter": "Titlul VII Răspunderi și sancțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 90207,
+          "title": "Pescuit – infracțiuni",
+          "chapter": "Capitolul IX Răspunderi și sancțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 77053,
+          "title": "Vânătoare – infracțiuni",
+          "chapter": "Capitolul V Răspunderi și sancțiuni",
+          "only": "infractiuni"
+        }
+      ]
+    },
+    {
+      "id": "diverse-contraventii",
+      "title": "Diverse – contravenții",
+      "description": "Mediu, alegeri, materii explozive, arme, acte de identitate, străini, animale",
+      "color": "teal",
+      "kind": "contraventii",
+      "entries": [
+        {
+          "law": 67634,
+          "title": "Protecția mediului – contravenții",
+          "chapter": "Capitolul XV Sancțiuni",
+          "only": "contraventii"
+        },
+        {
+          "law": 170037,
+          "title": "Alegeri parlamentare – contravenții",
+          "chapter": "Capitolul XI Contravenții și sancțiuni"
+        },
+        {
+          "law": 168136,
+          "title": "Alegeri locale – contravenții",
+          "chapter": "Capitolul V Contravenții"
+        },
+        {
+          "law": 6350,
+          "title": "Materii explozive – contravenții",
+          "chapter": "Capitolul IV Infracțiuni și contravenții",
+          "only": "contraventii"
+        },
+        {
+          "law": 53150,
+          "title": "Arme și muniții – contravenții",
+          "chapter": "Capitolul VIII Contravenții"
+        },
+        {
+          "law": 63354,
+          "title": "Acte de identitate, domiciliu – contravenții",
+          "chapter": "Capitolul V Sancțiuni"
+        },
+        {
+          "law": 41005,
+          "title": "Străini – contravenții",
+          "chapter": "Capitolul IX Contravenții și infracțiuni",
+          "only": "contraventii"
+        },
+        {
+          "law": 290723,
+          "title": "Protecția animalelor – contravenții",
+          "only": "contraventii"
+        },
+        {
+          "law": 222907,
+          "title": "Câini periculoși sau agresivi – contravenții",
+          "only": "contraventii"
+        }
+      ]
+    },
+    {
+      "id": "diverse-infractiuni",
+      "title": "Diverse – infracțiuni",
+      "description": "Mediu, alegeri, materii explozive, arme, străini, animale",
+      "color": "teal",
+      "kind": "infractiuni",
+      "entries": [
+        {
+          "law": 67634,
+          "title": "Protecția mediului – infracțiuni",
+          "chapter": "Capitolul XV Sancțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 109855,
+          "title": "Infracțiuni electorale",
+          "chapter": "Titlul IX Infracțiuni electorale"
+        },
+        {
+          "law": 6350,
+          "title": "Materii explozive – infracțiuni",
+          "chapter": "Capitolul IV Infracțiuni și contravenții",
+          "only": "infractiuni"
+        },
+        {
+          "law": 109855,
+          "title": "Nerespectarea regimului materiilor explozive",
+          "articles": "346"
+        },
+        {
+          "law": 109855,
+          "title": "Arme și muniții – infracțiuni",
+          "articles": "342-343"
+        },
+        {
+          "law": 41005,
+          "title": "Străini – infracțiuni",
+          "chapter": "Capitolul IX Contravenții și infracțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 290723,
+          "title": "Protecția animalelor – infracțiuni",
+          "only": "infractiuni"
+        },
+        {
+          "law": 222907,
+          "title": "Câini periculoși sau agresivi – infracțiuni",
+          "only": "infractiuni"
+        }
+      ]
+    },
+    {
+      "id": "organizare",
+      "title": "Organizare și statut",
+      "description": "Legea poliției, statutul polițistului, poliția locală, date personale",
+      "color": "slate",
+      "entries": [
+        {
+          "law": 35841
+        },
+        {
+          "law": 36819
+        },
+        {
+          "law": 120615
+        },
+        {
+          "law": 209627
+        }
+      ]
+    }
+  ]
+}

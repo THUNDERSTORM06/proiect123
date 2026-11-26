@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "checked": "2026-11-26T19:50:28Z",
+  "checked": "2026-11-26T22:46:56Z",
   "laws": [
     {
       "id": 109855,
@@ -518,5 +518,9 @@
       "size": 101405,
       "publication": "M.Of. nr. 13 din 7 ianuarie 2019"
     }
-  ]
+  ],
+  "content": {
+    "file": "content.json",
+    "sha256": "1afdb223e34df1082b2ae943ef3447d4744cfb4dfe1f6bfc6a8f92ccea2776f3"
+  }
 }
