@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "checked": "2026-11-26T18:50:57Z",
+  "checked": "2026-11-26T19:50:28Z",
   "laws": [
     {
       "id": 109855,
@@ -58,8 +58,9 @@
       "versionId": 307573,
       "articles": 3,
       "file": "laws/307573.json",
-      "sha256": "cc7c0b1eaabed6dd391fd52c16fba2cea8e515fec0ca6c170c24c358b31d3254",
-      "size": 6706
+      "sha256": "09fa52ba8dafa7467f6d89dd9d6c5abef3476060ed3e98c270839a230b0d4bb1",
+      "size": 6762,
+      "publication": "M.Of. nr. 146 din 25 februarie 2026"
     },
     {
       "id": 293218,
@@ -153,8 +154,9 @@
       "versionId": 136580,
       "articles": 10,
       "file": "laws/136580.json",
-      "sha256": "44eec2f45a2807390c3d0931bdfa79a884c427ad8478ae8f63d45bbe1f5fc170",
-      "size": 12559
+      "sha256": "eb318ba18c51c49622e47da5c6f8f3620fc2365f3c8a545f4d977289663d09de",
+      "size": 12612,
+      "publication": "M.Of. nr. 201 din 27 martie 2012"
     },
     {
       "id": 203115,
@@ -200,8 +202,9 @@
       "versionId": 309755,
       "articles": 6,
       "file": "laws/309755.json",
-      "sha256": "382f077effaefbe158d9d5135fe3fafdc6d578b6c292feef14954a58f4632be3",
-      "size": 17580
+      "sha256": "c9ce837eb3e18964891b314c45a4f573392fcf2af5efc181b4fde3fad28e9e3e",
+      "size": 17634,
+      "publication": "M.Of. nr. 323 din 23 aprilie 2026"
     },
     {
       "id": 52468,
@@ -451,8 +454,9 @@
       "versionId": 290723,
       "articles": 39,
       "file": "laws/290723.json",
-      "sha256": "57ef1265f0ed1151d1f160be16c932c380810e212dc4e21ac6e5d42651da2e5a",
-      "size": 34438
+      "sha256": "a189494bd32dac9b87d84c03bf4c5c3d80d7a4e68a06fc9f1fbffe72e16889a6",
+      "size": 34492,
+      "publication": "M.Of. nr. 320 din 30 aprilie 2014"
     },
     {
       "id": 222907,
@@ -462,8 +466,9 @@
       "versionId": 222907,
       "articles": 24,
       "file": "laws/222907.json",
-      "sha256": "a6fff0a50465bafa222b8134410516cd0924229d4cbfffd63972a4ad82433410",
-      "size": 21273
+      "sha256": "2711e47c60ff887ddc899b726eeccec843553e82dd2d8e83eb227d42a89fe5ae",
+      "size": 21329,
+      "publication": "M.Of. nr. 146 din 27 februarie 2014"
     },
     {
       "id": 35841,
@@ -509,8 +514,9 @@
       "versionId": 209627,
       "articles": 65,
       "file": "laws/209627.json",
-      "sha256": "7a50ef8556757cb770782579f9cd4aced8e1f10ce3bb8b9228ee6b37d1be3bc2",
-      "size": 101352
+      "sha256": "3cbc591d0c16f084568bf4142f79b4feecaf37a1a1fdffd05764c6ea6f0e3c03",
+      "size": 101405,
+      "publication": "M.Of. nr. 13 din 7 ianuarie 2019"
     }
   ]
 }
