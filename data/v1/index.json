@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "checked": "2026-11-26T01:13:31Z",
+  "checked": "2026-11-26T01:22:14Z",
   "laws": [
     {
       "id": 109855,
@@ -83,8 +83,8 @@
       "consolidationDate": "13.06.2026",
       "articles": 13,
       "file": "laws/1534.json",
-      "sha256": "bb2ef907039a57a1689d763f61c8c9b58e8457bcdda3be41c4ee5a22c939b62d",
-      "size": 26750
+      "sha256": "e6762cfac9777274123c48f10f0b29a99a79ef63e57a1974e59763539ae33ea6",
+      "size": 27117
     },
     {
       "id": 1532,
